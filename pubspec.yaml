@@ -1,0 +1,118 @@
+name: nlp_starter
+description: NLP Learning Application
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  shared_preferences: ^0.5.1+1
+  fluttertoast: ^3.0.1
+  json_annotation: ^2.4.0
+  flutter_redux: ^0.5.3
+  device_info: ^0.4.0+1
+  connectivity: ^0.4.3+1
+  url_launcher: ^5.0.2
+  flutter_markdown: ^0.2.0
+  share: ^0.6.0+1
+  flutter_spinkit: ^3.1.0
+  flutter_webview_plugin: ^0.3.5
+  sqflite: ^1.1.5
+  pub_semver: ^1.4.2
+  flutter_statusbar: ^0.0.1
+  flutter_svg: ^0.13.0+1
+  flutter_slidable: ^0.5.0
+  dio: ^2.1.4
+  event_bus:  ^1.1.0
+  flutter_cache_manager: ^0.3.2
+  path_provider: ^0.5.0+1
+  permission_handler: 3.0.2
+  scoped_model: ^1.0.1
+  package_info: ^0.4.0+3
+  rxdart: ^0.22.0
+  android_intent: ^0.3.0
+  webview_flutter: ^0.3.7+1
+  bezier: ^1.1.2
+  flare_flutter:
+    git:
+      url: https://github.com/CarSmallGuo/Flare-Flutter.git
+      path: flare_flutter
+      ref: master
+  flutter_localizations:
+    sdk: flutter
+  flutter_lottie:
+    git:
+      url: https://github.com/CarSmallGuo/flutter_lottie.git
+      ref: 3adb18f2e2a45b8dbdebc0437e9a4db3f6ff32b8
+  photo_view:
+    git:
+      url: https://github.com/CarSmallGuo/photo_view.git
+      ref: master
+  fluro: ^1.4.0
+  flutter_form_builder: ^3.2.0
+
+dev_dependencies:
+  build_runner: ^1.2.8
+  json_serializable: ^3.0.0
+#  flutter_test:
+#    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #  - images/a_dot_burr.jpeg
+  #  - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
+
+  assets:
+    - static/images/logo.png
+    - static/images/welcome.png
+    - static/images/default_img.png
+    - static/file/rejection.json
+    - static/file/rejection2.json
+    - static/file/flare_flutter_logo_.flr
+    - static/file/loading_world_now.flr
+    - static/file/Space-Demo.flr
+
+  fonts:
+    - family: wxcIconFont
+      fonts:
+        - asset: static/font/iconfont.ttf
