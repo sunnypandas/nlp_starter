@@ -18,9 +18,6 @@ flutter
 git clone https://github.com/sppsun/acgnfuns-app.git
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-
 ## Built With
 
 * [Android Studio](https://developer.android.com/studio)
