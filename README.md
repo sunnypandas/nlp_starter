@@ -6,10 +6,10 @@ A NLP study app based on flutter.
 
 A NLP study app based on flutter. We provided a demo for flutter app development.<br/>
 <br/>
-<img src="static/screenshots/Screenshot_2019-06-16-21-48-31.png" alt="drawing" width="216" height="420"/>
-<img src="static/screenshots/Screenshot_2019-06-16-21-48-52.png" alt="drawing" width="216" height="420"/>
-<img src="static/screenshots/Screenshot_2019-06-16-21-49-29.png" alt="drawing" width="216" height="420"/>
-<img src="static/screenshots/Screenshot_2019-06-16-21-49-39.png" alt="drawing" width="216" height="420"/>
+<img src="static/screenshots/Screenshot_2019-06-16-21-48-31.png" alt="drawing" width="200" height="400"/>
+<img src="static/screenshots/Screenshot_2019-06-16-21-48-52.png" alt="drawing" width="200" height="400"/>
+<img src="static/screenshots/Screenshot_2019-06-16-21-49-29.png" alt="drawing" width="200" height="400"/>
+<img src="static/screenshots/Screenshot_2019-06-16-21-49-39.png" alt="drawing" width="200" height="400"/>
 <br/>
 
 ### Prerequisites
