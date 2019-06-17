@@ -28,11 +28,9 @@ git clone https://github.com/sppsun/nlp_starter.git
 
 * [Android Studio](https://developer.android.com/studio)
 
-### Links
+## Links
 
-```
 * [sca-best-practice](https://github.com/sppsun/sca-best-practice)
-```
 
 ## Authors
 
