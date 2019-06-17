@@ -31,7 +31,7 @@ git clone https://github.com/sppsun/nlp_starter.git
 ### Links
 
 ```
-https://github.com/sppsun/sca-best-practice
+* [sca-best-practice](https://github.com/sppsun/sca-best-practice)
 ```
 
 ## Authors
