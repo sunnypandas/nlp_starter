@@ -21,12 +21,18 @@ flutter
 ### Installing
 
 ```
-git clone https://github.com/sppsun/acgnfuns-app.git
+git clone https://github.com/sppsun/nlp_starter.git
 ```
 
 ## Built With
 
 * [Android Studio](https://developer.android.com/studio)
+
+### Links
+
+```
+https://github.com/sppsun/sca-best-practice
+```
 
 ## Authors
 
